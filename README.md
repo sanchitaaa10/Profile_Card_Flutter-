@@ -1,17 +1,51 @@
-# flutter_assignment_3
+# Profile Card Flutter
 
-A new Flutter project.
+A stylish and responsive Personal Information Card built using Flutter.
 
-## Getting Started
+## 📱 App Preview
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="screenshots/screenshot.png" alt="Personal Information Card Screenshot" width="300" />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- **Elegant Profile Display**: Circular avatar profile picture with custom framing and shadow styling.
+- **Personal Details**: Displays name, designation, location, and contact information.
+- **Key Statistics Badges**: Icons and highlights for Age, ID Number, and Blood Group.
+- **Gradient Actions**: Styled interactive gradient contact badge.
+- **Responsive Layout**: Designed to adapt cleanly across screen sizes and orientations.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+
+- **Flutter** (v3.47+)
+- **Dart** (v3.13+)
+- **Material 3 Design**
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- [Flutter SDK](https://docs.flutter.dev/get-started/install) installed
+- An iOS Simulator / Android Emulator or physical device
+
+### Installation & Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sanchitaaa10/Profile_Card_Flutter-.git
+   cd Profile_Card_Flutter-
+   ```
+
+2. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+
+3. Run the application:
+   ```bash
+   flutter run
+   ```
+
+---
+*Created by [Sanchita Suryawanshi](https://github.com/sanchitaaa10)*
